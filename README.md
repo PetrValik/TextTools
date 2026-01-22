@@ -1,6 +1,8 @@
 # Text-tools
 
-It was a school project. I have to create a program which will process given text with different rules.
+It was a school project. I had to create a program that processes given text using different rules.
+
+No AI tools were used during the development of this project.
 
 Homework assignment no. 2, Text
 ====================================
